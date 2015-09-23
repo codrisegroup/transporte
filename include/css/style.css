@@ -1,0 +1,28 @@
+
+
+.tamano{
+
+font-size: 14px;
+color: green;
+font-weight:bold;
+}
+
+
+.trash{
+
+font-size: 14px;
+color: red;
+font-weight:bold;
+}
+
+
+
+.btnreporte{
+border-radius: 5px;
+background-color: blue;
+color:white;
+}
+
+.inptreporte{
+border-radius: 	5px;
+}
