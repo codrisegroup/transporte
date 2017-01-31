@@ -144,7 +144,7 @@ while($row=mysql_fetch_array($result))
 
 </div>
 <p></p>
-<h2>Detalle x Centro de Costo</h2>
+<h2>DETALLE POR  CENTRO DE COSTO</h2>
 <div class="detalle-centro-costo">
 <table class="tabla">
 <thead>

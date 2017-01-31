@@ -1,5 +1,5 @@
 <?php
-$conexion = new mysqli('192.168.1.28','root','sistemas','transporte',3306);
+$conexion = new mysqli('192.168.1.8','root','sistemas','transporte',3306);
 if (mysqli_connect_errno()) {
 printf("La conexión con el servidor de base de datos falló: %s\n", mysqli_connect_error());
 exit();
